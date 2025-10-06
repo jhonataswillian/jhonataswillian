@@ -1,174 +1,184 @@
-# 🚀 Hey there! I'm Jhonatas Willian
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Backend+Developer;Node.js+%2B+TypeScript+Enthusiast;Building+Scalable+APIs;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+# 🚀 Jhonatas Willian | Backend Developer
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
+  **Building scalable solutions with Node.js, TypeScript & Modern Web Technologies**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About
+
+Backend developer focused on building production-ready applications with TypeScript and Node.js. Currently developing commercial SaaS products while seeking internship opportunities to accelerate my professional growth.
+
+**Location:** Americana, SP - Brazil 🇧🇷  
+**Education:** Computer Science Student  
+**Focus:** Backend Architecture, REST APIs, Database Design  
+**Status:** Open to internship opportunities (Remote/Hybrid)
 
 ```typescript
-const jhonatas = {
-  location: "Americana, SP - Brazil 🇧🇷",
-  education: "Computer Science Student",
-  currentFocus: "Backend Development & APIs",
-  lookingFor: "Internship Opportunities",
-  
-  dailyRoutine: {
-    code: ["Node.js", "TypeScript", "React"],
-    challenge: "Building scalable backend solutions",
-    learn: "Advanced system architecture",
-    drink: "☕ Coffee (lots of it)"
-  },
-  
-  funFact: "I turn ideas into APIs and APIs into solutions! 🔧"
+const expertise = {
+  backend: ["Node.js", "NestJS", "Express", "TypeScript"],
+  database: ["PostgreSQL", "Supabase", "Prisma ORM"],
+  frontend: ["React", "Next.js", "Vite", "TailwindCSS"],
+  tools: ["Docker", "Git", "Jest", "Zod"],
+  architecture: ["RESTful APIs", "RLS", "Authentication", "Payment Integration"]
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🎯 Commercial Projects (In Development)
 
-<div align="center">
+### 💼 **Currify** - Professional Resume Builder SaaS
+**Role:** Founder & Lead Developer  
+**Stack:** `Next.js 14` `TypeScript` `Supabase` `Shadcn/UI` `jsPDF`
 
-### Backend Powerhouse
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+Enterprise-grade resume generation platform with ATS optimization and version control system.
 
-### Database Mastery
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+**Key Features:**
+- Multi-step resume builder with real-time validation
+- PDF generation with 98% ATS compatibility rate
+- Tiered subscription system (Free/Starter/Pro)
+- Row Level Security (RLS) implementation
+- Complete CRUD operations with versioning
 
-### Frontend Skills
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
-</div>
+**Technical Highlights:**
+- PostgreSQL schema with 4 main tables + RLS policies
+- JWT authentication with Supabase Auth
+- Automated deployment pipeline (Vercel)
+- Mobile-first responsive design
 
 ---
 
-## 🚀 Featured Projects
+### ⚖️ **ContratoClaro** - AI-Powered Contract Analysis
+**Role:** Founder & Lead Developer  
+**Stack:** `Next.js 14` `TypeScript` `Supabase` `OpenAI GPT-4` `Edge Functions`
 
-<div align="center">
+SaaS platform that uses AI to analyze Brazilian legal contracts and identify abusive clauses in plain language.
 
-### 🐦 [Pigeon Delivery System](https://github.com/jhonataswillian/pombo-correio-delivery)
-**Fullstack delivery management system with workflow automation**
+**Key Features:**
+- AI-powered contract analysis with GPT-4 integration
+- Automatic identification of legal risks and abusive terms
+- LGPD compliance (30-day auto-deletion, data export)
+- Glassmorphism UI inspired by macOS design language
 
-`NestJS` `React` `TypeScript` `Prisma` `PostgreSQL` `Docker`
-
-*Complete CRUD system with complex business rules and 8+ unit tests*
-
----
-
-### 🍕 [Alessio's Pizzaria](https://jhonataswillian.github.io/cardapio-pizzaria/)
-**Responsive restaurant website with modern design**
-
-`HTML5` `CSS3` `JavaScript` `Responsive Design`
-
-*Mobile-first approach with smooth animations and GitHub Pages deployment*
+**Technical Highlights:**
+- Serverless architecture with Supabase Edge Functions (Deno runtime)
+- Document processing and AI prompt engineering
+- Legal disclaimer system with OAB recommendations
+- Zero-cost MVP strategy using free tiers
 
 ---
 
-### 🦭 [Seal World](https://jhonataswillian.github.io/seal-world/)
-**Educational website about marine life**
+### 🎬 **CineRoulette** - Gamified Movie Discovery Platform
+**Role:** Founder & Lead Developer  
+**Stack:** `Vite` `React 18` `TypeScript` `Supabase` `Framer Motion`
 
-`HTML5` `CSS3` `Video Background` `Image Gallery`
+Entertainment platform that solves decision paralysis in streaming content selection through gamification.
 
-*Immersive experience with custom animations and Google Fonts integration*
+**Key Features:**
+- 3 interactive arcade games (Emoji Quiz, Memory Poster, Profile Quiz)
+- 4 discovery modes (Tinder-style Swipe, Mood Wheel, Time Travel, Thematic Universes)
+- Premium subscription system with ads monetization
+- Complete user profile management with 6 settings tabs
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonataswillian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonataswillian&theme=tokyonight" alt="GitHub Streak" />
-</div>
+**Technical Highlights:**
+- Complex animations with Framer Motion (3D wheel, drag gestures, particles)
+- Match system with 3 types (Skip, Match, Super Match)
+- Dual monetization strategy (Ads 85% + Subscriptions 15%)
+- Mobile-first design with dark mode cinematographic theme
 
 ---
 
 ## 💼 Professional Experience
 
-### 🌟 SouJunior Labs - Backend Developer (Volunteer)
-*Jul 2024 - Jan 2025*
+### Backend Developer (Volunteer) | **SouJunior Labs**
+*Jul 2024 - Jan 2025 (7 months)*
 
-- 🔧 Developed REST APIs for **"Solicite-me"** marketplace platform
-- 🗄️ Designed PostgreSQL schemas with **Prisma ORM** for multi-user systems
-- ⚡ Participated in **12+ agile sprints** with 3-developer team
-- 🧪 Maintained **80%+ test coverage** using Jest
+Contributed to **"Solicite-me"** marketplace platform connecting service providers with clients.
 
----
+**Responsibilities:**
+- Developed REST APIs for multi-user marketplace system
+- Designed PostgreSQL schemas using Prisma ORM
+- Implemented authentication and authorization flows
+- Participated in 12+ agile sprints with 3-developer team
+- Maintained 80%+ test coverage using Jest
 
-## 🎯 Current Goals
-
-```bash
-# 2025 Roadmap
-git commit -m "🎯 Goals for this year"
-
-□ Land an amazing internship opportunity
-□ Contribute to open-source projects
-□ Master advanced Node.js patterns
-□ Build microservices architecture
-□ Learn cloud deployment (AWS/Docker)
-□ Expand my professional network
-```
+**Technologies:** `NestJS` `PostgreSQL` `Prisma` `Jest` `Docker`
 
 ---
 
-## ⚡ Fun Stats
+## 🛠️ Technical Stack
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jhonataswillian&color=blueviolet&style=for-the-badge)
+### Core Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**🔥 Streak:** Coding consistently for months  
-**☕ Coffee Consumed:** Infinite  
-**🐛 Bugs Fixed:** More than I created (hopefully!)  
-**🚀 Lines of Code:** Growing every day  
+### Database & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 📊 GitHub Stats
 
 <div align="center">
-
-**Looking for internship opportunities in Backend/Fullstack development!**
-
-*Always open to discussing tech, sharing knowledge, and building amazing things together.*
-
-📍 **Based in:** Americana, SP - Brazil  
-🌍 **Available for:** Remote & Hybrid opportunities  
-💼 **Seeking:** Backend/Fullstack Internships  
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonataswillian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
+## 🎯 What I'm Looking For
+
+**Internship Position:** Backend or Fullstack Developer  
+**Work Model:** Remote or Hybrid  
+**Location:** Open to opportunities across Brazil  
+**Start Date:** Immediate availability
+
+**What I bring:**
+- Real-world experience building commercial SaaS products
+- Strong foundation in backend architecture and database design
+- Proactive problem-solving and autonomous learning
+- Team collaboration experience in agile environments
+- Passion for writing clean, scalable, and maintainable code
+
+---
+
+## 📫 Let's Connect
+
+Open to discussing opportunities, technical challenges, or just talking about code.
+
+**Email:** jhonatas.willian.dev@gmail.com  
+**LinkedIn:** [linkedin.com/in/jhonataswillian](https://linkedin.com/in/jhonataswillian)  
+**Location:** Americana, SP - Brazil
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jhonataswillian&color=2F81F7&style=flat-square)
+  
+  *Building the future, one commit at a time* 🚀
+  
 </div>
