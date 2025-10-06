@@ -93,21 +93,24 @@ Deploy    → Vercel (Edge Network) + GitHub Actions CI/CD
 
 ### 🔥 Key Achievements
 
-| Metric | Value |
-|--------|-------|
-| **ATS Compatibility** | 98% approval rate |
+| Feature | Details |
+|---------|---------|
+| **ATS Compatibility** | 98% approval rate across major systems |
 | **Generation Speed** | < 3 seconds per PDF |
-| **Database Design** | 4 tables with RLS policies |
-| **Subscription Tiers** | Free / Starter ($19.90) / Pro ($49.90) |
+| **Database Design** | 4 tables with Row Level Security policies |
+| **Subscription Plans** | Free / Starter (R$ 19.90) / Pro (R$ 49.90) |
+| **AI Integration** | GPT-5 nano (Starter: 20/mo) / GPT-5 mini (Pro: 100/mo) |
 
 ### 💎 Technical Highlights
 
 - ✅ Multi-step form with real-time validation (React Hook Form + Zod)
 - ✅ Row Level Security for multi-tenant data isolation
-- ✅ Automated PDF watermarking system for free tier
+- ✅ Automated PDF watermarking system for free tier (1 resume, 7-day expiration)
 - ✅ Complete CRUD with optimistic updates (TanStack Query)
-- ✅ Version control system with rollback capabilities
+- ✅ Version control system with rollback capabilities (Pro plan)
 - ✅ Mobile-first responsive design (320px → 4K)
+- ✅ Stripe integration for payment processing (Starter/Pro plans)
+- ✅ AI-powered resume analysis with GPT-5 (nano/mini depending on tier)
 
 <div align="center">
 
@@ -146,18 +149,14 @@ Deploy    → Vercel (Edge Network) + GitHub Actions CI/CD
 
 ```
 Frontend     → Next.js 14 + TypeScript + Glassmorphism UI
-AI Engine    → OpenAI GPT-4 Turbo + Custom Prompts
+AI Engine    → OpenAI GPT-4o-mini + Custom Prompts
 Backend      → Supabase Edge Functions (Deno Runtime)
 Compliance   → LGPD-compliant (30-day auto-deletion + data export)
 ```
 
 ### 🎯 Business Model
 
-| Tier | Price | Analysis/Month | AI Model |
-|------|-------|----------------|----------|
-| **Free** | R$ 0 | 1 contract | GPT-3.5 |
-| **Pro** | R$ 29/mo | 10 contracts | GPT-4 Turbo |
-| **Business** | R$ 99/mo | Unlimited | GPT-4 + Priority |
+*Pricing structure in development - platform launching with free tier MVP*
 
 ### 🔬 Innovation Points
 
@@ -227,9 +226,16 @@ Monetization   → Google AdMob (85%) + Premium (15%)
 - 🌌 **Thematic Universes** — Immersive genre exploration with particle effects
 
 **Arcade Games:**
-- 🎯 **Emoji Quiz** — Guess 100 movies from emoji combinations
-- 🧩 **Poster Memory** — Match movie posters (3 difficulty levels)
+- 🎯 **Emoji Quiz** — Guess 100 movies from emoji combinations (5 hints, 3 lives)
+- 🧩 **Poster Memory** — Match movie posters (3 difficulty levels: 8, 12, 18 pairs)
 - 🎭 **Personality Quiz** — 10 questions → 5 unique cinema profiles
+
+**Premium Features:**
+- 🚫 Ad-free experience
+- 🤖 AI-powered recommendations (GPT-5 nano/mini)
+- ⏱️ Filter movies by duration
+- 👑 Premium badge on profile
+- ⚡ Priority support
 
 ### 💰 Monetization Strategy
 
@@ -240,11 +246,19 @@ const revenueModel = {
     formats: ["Banner", "Interstitial"],
     targetRevenue: "R$ 8,500/mo with 10K users"
   },
-  premium: {
-    price: "R$ 14.90/mo or R$ 149/year",
-    features: ["No Ads", "AI Recommendations", "Duration Filter", "Premium Badge"],
-    targetRevenue: "R$ 7,450/mo with 500 subscribers"
-  }
+  subscriptionTiers: {
+    starter: {
+      price: "R$ 14.90/mo",
+      aiAnalyses: "20/month",
+      model: "GPT-5 nano"
+    },
+    pro: {
+      price: "R$ 49.90/mo", 
+      aiAnalyses: "100/month",
+      model: "GPT-5 mini"
+    }
+  },
+  targetRevenue: "R$ 15,950/mo total"
 };
 ```
 
