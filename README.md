@@ -64,37 +64,15 @@ const skills = {
 
 ## 🚀 Featured Projects
 
-### [Currify](https://github.com/jhonataswillian) — Professional Resume Builder
-**Status:** MVP Launched • **Stack:** Next.js 14, Supabase, TypeScript, TailwindCSS
+### [Currify](https://github.com/jhonataswillian/Currify) — Professional Resume Builder
+**Status:** MVP Launched • **Stack:** React 18, Supabase, TypeScript, TailwindCSS
 
 Enterprise-grade resume builder with 98% ATS compatibility and real-time PDF generation.
 
 - ✅ Multi-step form with validation (React Hook Form + Zod)
 - ✅ Row Level Security for multi-tenant data isolation
-- ✅ Payment integration with Stripe (Freemium model)
 - ✅ PDF generation in < 3 seconds
-
----
-
-### ContratoClaro — AI Contract Analysis Platform
-**Status:** In Development • **Stack:** Next.js, OpenAI GPT-4o-mini, Supabase
-
-AI-powered platform that analyzes contracts and explains legal risks in plain Portuguese.
-
-- ✅ LGPD-compliant with automated data lifecycle
-- ✅ Serverless architecture with Supabase Edge Functions
-- ✅ Context-aware AI for Brazilian legal framework
-
----
-
-### CineRoulette — Gamified Content Discovery
-**Status:** Beta Testing • **Stack:** React 18, Vite, TypeScript, Supabase
-
-Solving decision paralysis with 7 interactive discovery modes (Tinder-style swipes, mood wheel, arcade games).
-
-- ✅ 3D animations with physics simulation
-- ✅ Gamification engine with achievements system
-- ✅ Monetization via Google AdMob + Premium tiers
+- ⚠️ Payment integration with MercadoPago (Freemium model)
 
 ---
 
