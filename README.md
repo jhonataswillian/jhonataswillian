@@ -84,7 +84,7 @@ Enterprise-grade resume builder with 98% ATS compatibility and real-time PDF gen
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7&date_format=M%20j[,Y])
 
 </div>
 
