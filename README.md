@@ -18,7 +18,7 @@
 
 I'm a backend developer who believes code should solve real problems, not just compile. With **7 months of production experience** at SouJunior Labs, I've shipped features in a marketplace platform through 12+ agile sprints, where I architected REST APIs, optimized database queries, and maintained high test coverage.
 
-Currently, I'm building **Currify** (MVP launched) - a resume builder with 98% ATS compatibility using Next.js and Supabase. I also maintain two other SaaS projects in development: an AI-powered contract analyzer and a gamified content discovery platform.
+Currently, I’m building Currify (MVP launched) – a resume builder with 98% ATS compatibility using React, TypeScript and Supabase. I also maintain two other SaaS projects in development: a trading journal for traders to record their operations and track performance statistics, and a "Secret Santa - (Amigo Secreto)" game for families and friends, where users create groups, draw names anonymously, share wishlists and manage the final reveal online.
 
 **What drives me:** Turning ideas into scalable products that people actually use.
 
