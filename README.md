@@ -1,128 +1,133 @@
 <div align="center">
 
-# Jhonatas Willian
+# 👋 Jhonatas Willian
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;SaaS+Architect;Building+Products+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+SaaS+Architect;Building+Scalable+Products;7+Months+Production+Experience" alt="Typing SVG" />
 
-**Computer Science Student | Americana, SP 🇧🇷**
+**Computer Science Student** • Americana, SP 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonataswillian-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jhonataswillian)
-[![Email](https://img.shields.io/badge/Email-jhonatas.willian.dev-EA4335?style=flat-square&logo=gmail)](mailto:jhonatas.willian.dev@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jhonataswillian&color=2e9ef7&style=flat-square)](https://github.com/jhonataswillian)
+[![LinkedIn](https://img.shields.io/badge/-jhonataswillian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
+[![Email](https://img.shields.io/badge/-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-I'm a backend developer who believes code should solve real problems, not just compile. With **7 months of production experience** at SouJunior Labs, I've shipped features in a marketplace platform through 12+ agile sprints, where I architected REST APIs, optimized database queries, and maintained high test coverage.
+Backend developer focused on building **scalable SaaS products** that solve real problems. With 7 months of production experience, I've shipped features across 12+ agile sprints, optimized APIs for 35% faster response times, and maintained 80%+ test coverage.
 
-Currently, I’m building Currify (MVP launched) – a resume builder with 98% ATS compatibility using React, TypeScript and Supabase. I also maintain two other SaaS projects in development: a trading journal for traders to record their operations and track performance statistics, and a "Secret Santa - (Amigo Secreto)" game for families and friends, where users create groups, draw names anonymously, share wishlists and manage the final reveal online.
-
-**What drives me:** Turning ideas into scalable products that people actually use.
-
-**Currently seeking:** Backend/Fullstack Developer internship opportunities to grow alongside experienced engineers and contribute to impactful projects.
-
----
-
-## 💼 Professional Experience
-
-### Backend Developer (Volunteer) — **SouJunior Labs**
-`Jul 2024 - Jan 2025 • 7 months`
-
-Developed Solicite-me, a marketplace platform connecting service providers with clients.
-
-**Impact & Responsibilities:**
-- Architected RESTful APIs with NestJS, PostgreSQL, and Prisma ORM
-- Implemented JWT authentication and role-based access control (RBAC)
-- **Reduced API response time by 35%** through Redis caching strategies
-- Collaborated in **12+ agile sprints** with a 3-developer team
-- Maintained **80%+ test coverage** with Jest and integration tests
-- Deployed microservices using Docker and GitHub Actions CI/CD pipelines
-
-**Tech Stack:** `NestJS` `PostgreSQL` `Prisma` `Docker` `Redis` `Jest` `GitHub Actions`
-
----
-
-## 🛠️ Technical Skills
+Currently developing **3 SaaS MVPs** (Resume Builder launched, Trading Journal and Secret Santa in progress) while actively seeking **Backend/Fullstack internship opportunities** to grow alongside experienced engineering teams.
 
 ```typescript
-const skills = {
-  languages: ["TypeScript", "JavaScript"],
-  backend: ["Node.js", "NestJS", "Express"],
-  frontend: ["React", "Next.js 14", "Vite"],
-  database: ["PostgreSQL", "MongoDB", "Supabase", "Prisma ORM", "Redis"],
-  devops: ["Docker", "GitHub Actions", "Vercel", "Git"],
-  testing: ["Jest", "Unit Testing", "Integration Testing"],
-  styling: ["TailwindCSS", "Shadcn/UI", "Responsive Design"],
-  architecture: ["REST APIs", "JWT Auth", "RBAC", "Microservices"]
+const jhonatas = {
+  role: "Backend Developer",
+  focus: ["REST APIs", "Database Design", "System Architecture"],
+  learning: ["Microservices", "Cloud Infrastructure", "System Design"],
+  seeking: "Internship • Remote/Hybrid • Brazil"
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### [Currify](https://github.com/jhonataswillian/Currify) — Professional Resume Builder
-**Status:** MVP Launched • **Stack:** React 18, Supabase, TypeScript, TailwindCSS
+### **Backend Developer** @ SouJunior Labs *(Volunteer)*
+`Jul 2024 - Jan 2025 • 7 months`
 
-Enterprise-grade resume builder with 98% ATS compatibility and real-time PDF generation.
+Developed **Solicite-me**, a marketplace connecting service providers with clients.
 
-- ✅ Multi-step form with validation (React Hook Form + Zod)
-- ✅ Row Level Security for multi-tenant data isolation
-- ✅ PDF generation in < 3 seconds
-- ⚠️ Payment integration with MercadoPago (Freemium model)
+**Key Achievements:**
+- 🚀 Reduced API response time by **35%** through Redis caching strategies
+- 🏗️ Architected RESTful APIs with NestJS, PostgreSQL, and Prisma ORM
+- 🔐 Implemented JWT authentication and role-based access control (RBAC)
+- ✅ Maintained **80%+ test coverage** with Jest and integration tests
+- 🐳 Deployed microservices using Docker and GitHub Actions CI/CD
+- 🤝 Collaborated in **12+ agile sprints** with cross-functional teams
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### **Database & Cache**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### **AI & GenAI**
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Core Competencies:** REST API Design • Database Optimization • JWT Auth • RBAC • Microservices • CI/CD • Test-Driven Development
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=6)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7&date_format=M%20j[,Y])
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+## 🚀 What I'm Looking For
 
-I'm actively seeking **Backend/Fullstack Developer internship** opportunities where I can:
+Seeking **Backend/Fullstack Developer internship** opportunities to:
 
-- 🏗️ Contribute to scalable backend architectures
-- 🤝 Learn from experienced engineers in agile teams
-- 🚀 Ship features that impact real users
-- 📈 Grow my skills in system design and cloud infrastructure
+✅ Build scalable backend architectures in production environments  
+✅ Learn from senior engineers in agile, collaborative teams  
+✅ Ship features that impact thousands of users  
+✅ Deepen expertise in system design and cloud infrastructure  
 
-**Availability:** Immediate  
-**Work Model:** Remote or Hybrid  
-**Location:** Open to opportunities across Brazil
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing backend architecture, SaaS development, or collaboration opportunities.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jhonataswillian)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail)](mailto:jhonatas.willian.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jhonataswillian)
-
-</div>
+**Available:** Immediate • **Work Model:** Remote/Hybrid • **Location:** Open across Brazil
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+### 📬 Let's Build Something Great Together
 
-⭐ **If you find my work interesting, consider starring my repositories!**
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
+[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonataswillian?tab=repositories)
+
+---
+
+*"Code should solve real problems, not just compile."*
+
+⭐ If my work resonates with you, consider starring my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=jhonataswillian&color=2e9ef7&style=flat-square&label=Profile+Views)
 
 </div>
