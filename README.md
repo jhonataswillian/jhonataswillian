@@ -23,8 +23,8 @@ Currently developing **3 SaaS MVPs** (Resume Builder launched, Trading Journal a
 const jhonatas = {
   role: "Backend Developer",
   focus: ["REST APIs", "Database Design", "System Architecture"],
-  learning: ["Microservices", "Cloud Infrastructure", "System Design"],
-  seeking: "Internship • Remote/Hybrid • Brazil"
+  learning: ["Java & Spring Ecosystem", "Microservices", "Cloud Infrastructure"],
+  seeking: ["Internship", "Remote/Hybrid", "Brazil"]
 };
 ```
 
@@ -80,6 +80,12 @@ Developed **Solicite-me**, a marketplace connecting service providers with clien
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+### **Studying**
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
 **Core Competencies:** REST API Design • Database Optimization • JWT Auth • RBAC • Microservices • CI/CD • Test-Driven Development
 
 ---
@@ -95,7 +101,7 @@ Developed **Solicite-me**, a marketplace connecting service providers with clien
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7&v=1)](https://git.io/streak-stats)
 
 </div>
 
