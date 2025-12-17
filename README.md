@@ -2,9 +2,9 @@
 
 # 👋 Jhonatas Willian
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+SaaS+Architect;Building+Scalable+Products;7+Months+Production+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+APIs+%26+Microservices;Transitioning+to+Java+Ecosystem+%F0%9F%9A%80" alt="Typing SVG" />
 
-**Computer Science Student** • Americana, SP 🇧🇷
+**Backend Developer** • **Java Enthusiast** • Americana, SP 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/-jhonataswillian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
 [![Email](https://img.shields.io/badge/-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
@@ -15,73 +15,104 @@
 
 ## 🎯 About Me
 
-Backend developer focused on building **scalable SaaS products** that solve real problems. With 7 months of production experience, I've shipped features across 12+ agile sprints, optimized APIs for 35% faster response times, and maintained 80%+ test coverage.
+Backend developer **transitioning to the Java ecosystem**, focused on building **scalable APIs and microservices**. Currently pursuing an intensive **540h+ Java Backend specialization** covering Spring Boot, JPA, Microservices, and software engineering best practices.
 
-Currently developing **3 SaaS MVPs** (Resume Builder launched, Trading Journal and Secret Santa in progress) while actively seeking **Backend/Fullstack internship opportunities** to grow alongside experienced engineering teams.
+With 7 months of production experience, I've shipped features across 12+ agile sprints, optimized database queries for 40% faster response times, and maintained 80%+ test coverage. My solid foundation in backend architecture enables a natural transition to Java and Spring Framework.
 
-```typescript
-const jhonatas = {
-  role: "Backend Developer",
-  focus: ["REST APIs", "Database Design", "System Architecture"],
-  learning: ["Java & Spring Ecosystem", "Microservices", "Cloud Infrastructure"],
-  seeking: ["Internship", "Remote/Hybrid", "Brazil"]
-};
+```java
+public class Developer {
+    private String name = "Jhonatas Willian";
+    private String role = "Backend Developer";
+    private String[] focus = {"Java", "Spring Boot", "REST APIs", "Microservices"};
+    private String[] databases = {"PostgreSQL", "MySQL", "MongoDB", "Redis"};
+    private String seeking = "Backend Java Internship/Junior Position";
+    
+    public String getMotivation() {
+        return "Building robust, scalable systems that solve real problems";
+    }
+}
 ```
+
+---
+
+## 🎓 Current Focus
+
+🌱 **Java Backend Specialization** — Alura (540h+)
+
+| Module | Topics |
+|--------|--------|
+| **Java Core** | OOP, Collections, Streams, Generics, Exception Handling |
+| **Spring Framework** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security |
+| **APIs & Architecture** | REST APIs, DTOs, Microservices, Clean Architecture |
+| **Persistence** | JPA, Hibernate, PostgreSQL, Query Optimization |
+| **Testing & Quality** | JUnit 5, Mockito, TDD, Clean Code, SOLID |
+| **DevOps** | Docker, Maven, CI/CD, Git Flow |
 
 ---
 
 ## 💼 Experience
 
-### **Backend Developer** @ SouJunior Labs *(Volunteer)*
-`Jul 2024 - Jan 2025 • 7 months`
+### Backend Developer @ SouJunior Labs (Volunteer)
+```
+Jul 2024 - Jan 2025 • 7 months
+```
 
 Developed **Solicite-me**, a marketplace connecting service providers with clients.
 
 **Key Achievements:**
-- 🚀 Reduced API response time by **35%** through Redis caching strategies
-- 🏗️ Architected RESTful APIs with NestJS, PostgreSQL, and Prisma ORM
+- 🚀 Reduced database query latency by **40%** through caching strategies and query optimization
+- 🏗️ Designed RESTful APIs following SOLID principles and Clean Architecture
 - 🔐 Implemented JWT authentication and role-based access control (RBAC)
-- ✅ Maintained **80%+ test coverage** with Jest and integration tests
-- 🐳 Deployed microservices using Docker and GitHub Actions CI/CD
-- 🤝 Collaborated in **12+ agile sprints** with cross-functional teams
+- ✅ Maintained **80%+ test coverage** with automated testing
+- 🐳 Deployed services using Docker and GitHub Actions CI/CD pipelines
+- 🤝 Collaborated in **12+ agile sprints** using Scrum methodology
+
+💡 *Skills directly transferable to Java ecosystem: API architecture, database design, authentication, testing, CI/CD, SOLID principles*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Backend — Primary Focus
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Database & Cache**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+### Testing & Quality
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### **Studying**
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+### Additional Knowledge
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Core Competencies:** REST API Design • Database Optimization • JWT Auth • RBAC • Microservices • CI/CD • Test-Driven Development
+---
+
+## 🏗️ Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🔹 REST API Design          🔹 Database Optimization    🔹 JWT Auth    │
+│  🔹 Spring Framework         🔹 Clean Architecture       🔹 SOLID       │
+│  🔹 Microservices            🔹 Test-Driven Development  🔹 CI/CD       │
+│  🔹 Design Patterns          🔹 Agile/Scrum              🔹 Git Flow    │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -89,14 +120,10 @@ Developed **Solicite-me**, a marketplace connecting service providers with clien
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&langs_count=8&include_all_commits=true&count_private=true" alt="Top Languages"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=react&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&dates=C9D1D9)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,31 +131,44 @@ Developed **Solicite-me**, a marketplace connecting service providers with clien
 
 ## 🚀 What I'm Looking For
 
-Seeking **Backend/Fullstack Developer internship** opportunities to:
+**Seeking Backend Java Developer (Internship/Junior) opportunities to:**
 
-✅ Build scalable backend architectures in production environments  
+✅ Build scalable Java/Spring Boot applications in production environments  
+✅ Develop RESTful APIs and Microservices architectures  
 ✅ Learn from senior engineers in agile, collaborative teams  
-✅ Ship features that impact thousands of users  
-✅ Deepen expertise in system design and cloud infrastructure  
+✅ Apply SOLID principles, TDD, and software engineering best practices  
+✅ Grow expertise in Cloud infrastructure and distributed systems  
 
-**Available:** Immediate • **Work Model:** Remote/Hybrid • **Location:** Open across Brazil
+| Availability | Work Model | Location |
+|--------------|------------|----------|
+| ✅ Immediate | Remote / Hybrid | 🇧🇷 Brazil |
 
 ---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Advanced |
+
+---
+
+## 📬 Let's Build Something Great Together
 
 <div align="center">
 
-### 📬 Let's Build Something Great Together
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
-[![Email](https://img.shields.io/badge/-Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonataswillian?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jhonataswillian)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:jhonatas.willian.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jhonataswillian)
 
 ---
 
-*"Code should solve real problems, not just compile."*
+*"Clean code is not written by following a set of rules. Clean code is written by a programmer who cares."*  
+**— Robert C. Martin**
 
-⭐ If my work resonates with you, consider starring my repositories!
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jhonataswillian&color=2e9ef7&style=flat-square&label=Profile+Views)
+⭐ **If my work resonates with you, consider starring my repositories!**
 
 </div>
