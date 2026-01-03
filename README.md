@@ -2,9 +2,13 @@
 
 # 👨‍💻 Jhonatas Willian
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+REST+APIs;Clean+Code+%26+SOLID+Principles;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+API+REST;Clean+Code+Enthusiast;Always+Learning" alt="Typing SVG" />
 
-**Backend Developer** • Java & Spring Boot
+<br />
+
+<h3>Backend Developer • Java & Spring Ecosystem</h3>
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhonatas.willian.dev@gmail.com)
@@ -16,74 +20,68 @@
 
 ## 🚀 About Me
 
-Backend developer focused on building **scalable REST APIs** using **Java and Spring Boot**. I write clean, testable code following SOLID principles and modern software engineering practices.
+**From Pixel Perfect to Logic Perfect.** I am a Computer Science student transitioning from Frontend to **Backend Engineering**. My background in UI gives me a unique perspective on API design—I know exactly what the client needs to consume.
 
-Currently deepening my expertise in **Microservices architecture**, **Spring Security**, and **distributed systems**.
+Currently, I'm focused on mastering the **Spring Ecosystem** to build robust, fault-tolerant systems.
 
 ```java
-public class Developer {
-    private final String name = "Jhonatas Willian";
-    private final String[] stack = {"Java", "Spring Boot", "PostgreSQL", "Docker"};
-    private final String focus = "Building robust backend systems";
+@Service
+public class JhonatasProfile implements BackendDeveloper {
+
+    private final String[] stack = {"Java 21", "Spring Boot 3", "SQL", "Docker", "AWS"};
+    private final String focus = "Clean Code & SOLID Principles";
+
+    public void dailyRoutine() {
+        // 🎯 Goal: Write code that is easy to read and test
+        while (isLearning) {
+            practice("Microservices");
+            deploy("Docker Containers");
+        }
+    }
 }
 ```
 
+### 🔄 My Standard Backend Flow (MVC)
+*Simple and organized data flow I implement in my projects:*
+
+`Client (Request)` ➡️ **Controller** (Validates Input) ➡️ **Service** (Business Logic) ➡️ **Repository** (Data Access) ➡️ **Database**
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Matrix
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+My study and practice stack:
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Testing & Quality
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-9B4F96?style=for-the-badge)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### Additional Knowledge
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Core & Framework** | ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Data Persistence** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Testing** | ![Testcontainers](https://img.shields.io/badge/Testcontainers-9B4F96?style=flat-square&logo=testcontainers&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=flat-square) |
+| **Documentation** | ![Swagger](https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 
 ---
 
 ## 📌 Featured Project
 
 ### [TaskManager API](https://github.com/jhonataswillian/TaskManager)
-Enterprise-grade REST API for project and task management built with Spring Boot.
+*Task Management System focusing on clean architecture and security.*
 
-**Highlights:**
-- 🔐 JWT-based stateless authentication with Spring Security 6
-- 🏢 Multi-tenant data isolation (security by design)
-- ✅ Complete test coverage: Unit (JUnit/Mockito) + Integration (Testcontainers)
-- 📦 Database versioning with Flyway migrations
-- 📚 Interactive API docs with Swagger/OpenAPI
-
-**Stack:** Java 21 • Spring Boot 3.5 • Spring Security • Spring Data JPA • PostgreSQL • Docker • Testcontainers
+| Feature | Implementation Details |
+| :--- | :--- |
+| **Security** | Implemented **JWT Authentication** to secure endpoints using Spring Security. |
+| **Architecture** | **Multi-tenant** logic to ensure user data isolation. |
+| **Testing** | Integration tests running with **Testcontainers** to simulate real database scenarios. |
+| **Database** | Schema versioning controlled by **Flyway** to avoid migration conflicts. |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&langs_count=6&hide=typescript,javascript,html,css,scss,plpgsql,sql,shell)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&dates=C9D1D9)](https://git.io/streak-stats)
 
@@ -91,32 +89,28 @@ Enterprise-grade REST API for project and task management built with Spring Boot
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Backend Developer** @ SouJunior Labs (Volunteer) • *Jul 2024 - Jan 2025*  
-Developed marketplace platform connecting service providers with clients. Collaborated in agile team (Scrum), designed PostgreSQL schemas, implemented REST APIs, and maintained CI/CD pipelines.
+**Backend Developer (Volunteer)** @ SouJunior Labs  
+*Jul 2024 - Jan 2025*
+- Collaborated in an agile team to build a marketplace platform.
+- Designed database schemas using **PostgreSQL**.
+- Developed RESTful APIs adhering to good practices and maturity models.
 
 ---
 
 ## 🎓 Education
 
 **Computer Science** • Centro Universitário FAM (2024-2028)  
-**Java Backend Specialization** • Alura (540h+) • *In progress*
-
----
-
-## 🌐 Languages
-
-**🇧🇷 Portuguese** (Native)    
-**🇺🇸 English** (Advanced)
+**Java Backend Specialization** • Alura (540h+)
 
 ---
 
 <div align="center">
 
-**Open to:** Backend Java Internship/Junior opportunities  
+**Open to:** Backend Java Internship/Junior Opportunities  
 **Location:** Americana, SP • Remote/Hybrid
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
+[![LinkedIn](https://img.shields.io/badge/-Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
 
 </div>
