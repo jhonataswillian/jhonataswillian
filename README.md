@@ -64,7 +64,7 @@ My study and practice stack:
 
 ## 📌 Featured Project
 
-### [TaskManager API](https://github.com/jhonataswillian/TaskManager)
+### [TaskManager API](https://github.com/jhonataswillian/task-manager)
 *Task Management System focusing on clean architecture and security.*
 
 | Feature | Implementation Details |
