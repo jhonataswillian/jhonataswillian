@@ -2,7 +2,7 @@
 
 # 👨‍💻 Jhonatas Willian
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+API+REST;Clean+Code+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+API+REST;Clean+Code+%26+Testing;Building+Robust+Systems" alt="Typing SVG" />
 
 <br />
 
@@ -20,37 +20,41 @@
 
 ## 🚀 About Me
 
-**From Pixel Perfect to Logic Perfect.** I am a Computer Science student transitioning from Frontend to **Backend Engineering**. My background in UI gives me a unique perspective on API design—I know exactly what the client needs to consume.
+I am a Computer Science student and **Backend Developer** focused on building high-performance, scalable systems.
 
-Currently, I'm focused on mastering the **Spring Ecosystem** to build robust, fault-tolerant systems.
+My passion lies in engineering solutions that are secure, reliable, and easy to maintain. I specialize in the **Spring Ecosystem**, handling complex business logic, database optimizations, and API security.
+
+My goal is not just to write code that works, but to design architectures that last.
 
 ```java
 @Service
 public class JhonatasProfile implements BackendDeveloper {
 
-    private final String[] stack = {"Java 21", "Spring Boot 3", "SQL", "Docker", "AWS"};
-    private final String focus = "Clean Code & SOLID Principles";
+    private final String coreFocus = "Java 21 & Spring Boot 3";
+    private final String methodology = "Domain-Driven Design (DDD)";
 
-    public void dailyRoutine() {
-        // 🎯 Goal: Write code that is easy to read and test
-        while (isLearning) {
-            practice("Microservices");
-            deploy("Docker Containers");
-        }
+    public void engineeringApproach() {
+        // 🎯 Priority: Stability and Scalability
+        apply("Clean Architecture");
+        optimize("Database Queries");
+        ensure("Security Best Practices");
     }
 }
 ```
 
-### 🔄 My Standard Backend Flow (MVC)
-*Simple and organized data flow I implement in my projects:*
+### ⚡ Development Philosophy
+*Engineering principles I apply in every project:*
 
-`Client (Request)` ➡️ **Controller** (Validates Input) ➡️ **Service** (Business Logic) ➡️ **Repository** (Data Access) ➡️ **Database**
+* **Separation of Concerns:** Strict layering (Controller, Service, Repository) to keep business logic isolated.
+* **Security First:** Authentication/Authorization designed from day one, not added as an afterthought.
+* **Database Integrity:** Using migrations (Flyway) to ensure reproducible environments.
+* **Observability:** Logging and clear error handling to make debugging easier.
 
 ---
 
 ## 🛠️ Technology Matrix
 
-My study and practice stack:
+My professional toolset:
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
@@ -64,7 +68,7 @@ My study and practice stack:
 
 ## 📌 Featured Project
 
-### [TaskManager API](https://github.com/jhonataswillian/task-manager)
+### [TaskManager API](https://github.com/jhonataswillian/TaskManager)
 *Task Management System focusing on clean architecture and security.*
 
 | Feature | Implementation Details |
