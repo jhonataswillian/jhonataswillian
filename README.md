@@ -87,7 +87,7 @@ My professional toolset:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jhonataswillian&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonataswillian&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&langs_count=6&hide=typescript,javascript,html,css,scss,plpgsql,sql,shell)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonataswillian&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&dates=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonataswillian&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F)](https://git.io/streak-stats)
 
 </div>
 
