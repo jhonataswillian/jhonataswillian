@@ -93,23 +93,6 @@ My professional toolset:
 
 ---
 
-## 💼 Professional Experience
-
-**Backend Developer (Volunteer)** @ SouJunior Labs  
-*Jul 2024 - Jan 2025*
-- Collaborated in an agile team to build a marketplace platform.
-- Designed database schemas using **PostgreSQL**.
-- Developed RESTful APIs adhering to good practices and maturity models.
-
----
-
-## 🎓 Education
-
-**Computer Science** • Centro Universitário FAM (2024-2028)  
-**Java Backend Specialization** • Alura (540h+)
-
----
-
 <div align="center">
 
 **Open to:** Backend Java Internship/Junior Opportunities  
