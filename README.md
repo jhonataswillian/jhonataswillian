@@ -30,7 +30,7 @@ My goal is not just to write code that works, but to design architectures that l
 @Service
 public class JhonatasProfile implements BackendDeveloper {
 
-    private final String coreFocus = "Java 21 & Spring Boot 3";
+    private final String coreFocus = "Java & Spring Boot";
     private final String methodology = "Domain-Driven Design (DDD)";
 
     public void engineeringApproach() {
