@@ -123,7 +123,7 @@ Contributed to a service marketplace in an agile environment simulating real pro
 <div align="center">
 
 **🎓 Computer Science Student** • FAM University Center  
-**🌍 Open to:** Backend Engineer Internship/Junior Roles • Remote/Hybrid
+**🌍 Open to:** Backend Engineer Internship/Junior Roles
 
 [![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonataswillian)
 
